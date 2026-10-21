@@ -1,0 +1,10 @@
+{
+  "name": "NO GOING BACK \u2014 Daily Discipline Tracker",
+  "short_name": "No Going Back",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d1210",
+  "theme_color": "#101714",
+  "description": "Private daily discipline and streak tracker"
+}
