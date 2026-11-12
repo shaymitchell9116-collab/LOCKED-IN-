@@ -1,10 +1,22 @@
 {
-  "name": "NO GOING BACK \u2014 Daily Discipline Tracker",
-  "short_name": "No Going Back",
+  "name": "LOCKED IN \u2014 Daily Discipline Tracker",
+  "short_name": "LOCKED IN",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0d1210",
-  "theme_color": "#101714",
-  "description": "Private daily discipline and streak tracker"
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "background_color": "#edf1f8",
+  "theme_color": "#edf1f8",
+  "description": "A private, offline-capable daily discipline tracker.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
 }
